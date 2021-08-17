@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/m_account"
+    android:enabled="true"
+    android:title="Account"
+    />
+
+    <item
+        android:id="@+id/m_settings"
+        android:enabled="true"
+        android:title="Settings"/>
+    <item
+        android:id="@+id/m_more"
+        android:enabled="true"
+        android:title="Help &amp; Contact"/>
+    <item
+        android:id="@+id/m_logout"
+        android:enabled="true"
+        android:title="Logout"/>
+</menu>
